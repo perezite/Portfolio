@@ -37,8 +37,6 @@ The system is also accompanied by a web app, allowing the user to inspect and ma
 👷 Team size: ~7 people  
 ⌚ My collaboration: Year 2020
 
-<hr>
-
 ## SmartCow
 
 <img src="https://play-lh.googleusercontent.com/8S1Ri51nSVxwjuxVpbCJZtYcf59kmaiXybIb7pc2c5RWnFMxx3gJhHKAyoAfYU3bGcnK=w2560-h1440-rw" alt="Smartcow App Screenshot 1" width="200"/>
@@ -65,8 +63,6 @@ It is also possible to notify the Swiss animal traffic database about several li
 
 👷 Team size: ~3 people  
 ⌚ My collaboration: Years 2018 - 2019
-  
-<hr>
 
 ## Tierverkehrsdatenbank (Swiss Animal Traffic Database)
 
@@ -86,8 +82,6 @@ Registering at the TVD is mandatory for Swiss farmers keeping cattle, pigs, shee
 ### Project details
 👷 Team size: ~8 people  
 ⌚ My collaboration: Years 2017 - 2018
-
-<hr>
 
 ## Farming Simulator Dedicated Server
 
