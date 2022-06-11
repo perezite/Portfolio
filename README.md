@@ -93,7 +93,7 @@ The *Farming Simulator Dedicated Server* software allows to run a *Farming Simul
 
 ### My contribution to the project
 
-💡 Develop the web application *Dedicated Server for Farming Simulator 2013* in **C++**
+💡 Develop the web application *Dedicated Server for Farming Simulator 2013* in **C++**  
 💡 Further develop and extend an existing **HTTP** webserver in **C++**  
 
 ### Project details
