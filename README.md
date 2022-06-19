@@ -1,9 +1,11 @@
 # Simon Schwegler
-🤓 .NET Fullstack Developer with professional developer experience since 2013  
+🤓 .NET Fullstack Engineer with professional developer experience since 2013  
 🎮 I also love to tinker with C++ and Game Engine Programming  
 🎓 I have a degree in Physics (BSc) as well as Computational Science (MSc) from the University of Zürich
 
 # Professional Projects
+
+The following is a (non-exhaustive) list of projects I contributed to as a software engineer since 2013. 
 
 ## eTransit
 
@@ -35,7 +37,7 @@ The system is also accompanied by a web app, allowing the user to inspect and ma
 ### Project details
 
 👷 Team size: ~7 people  
-⌚ My collaboration: Year 2020
+⌚ Time of collaboration: Year 2020
 
 ## SmartCow
 
@@ -62,7 +64,7 @@ It is also possible to notify the Swiss animal traffic database about several li
 ### Project details
 
 👷 Team size: ~3 people  
-⌚ My collaboration: Years 2018 - 2019
+⌚ Time of collaboration: Years 2018 - 2019
 
 ## Tierverkehrsdatenbank (Swiss Animal Traffic Database)
 
@@ -81,7 +83,7 @@ Registering at the TVD is mandatory for Swiss farmers keeping cattle, pigs, shee
 
 ### Project details
 👷 Team size: ~8 people  
-⌚ My collaboration: Years 2017 - 2018
+⌚ Time of collaboration: Years 2017 - 2018
 
 ## Farming Simulator Dedicated Server
 
@@ -101,4 +103,33 @@ The *Farming Simulator Dedicated Server* software allows to run a *Farming Simul
 ### Project details
 
 👷 Team size: ~2 people  
-⌚ My collaboration: Year 2013
+⌚ Time of collaboration: Year 2013
+
+# University Projects
+
+## Tank Game
+
+![Tank Game Screenshot](https://github.com/perezite/tank-game/raw/main/assets/screenshot1.png)
+
+🔗 [Github Repository](https://github.com/perezite/tank-game)  
+🔗 [Download Page](https://github.com/perezite/tank-game/releases/tag/v1.0.0)
+
+An action game where a tank must fight its way through a 3D city full of hostile enemy tanks.
+
+This game was created as a final project during the lecture
+'[Computer Graphics Lab](https://www.ifi.uzh.ch/en/vmml/teaching/lectures/computer-graphics-fs20.html)' at the University of Zurich, in cooperation with two fellow students.
+
+The goal of the project was the implementation of a functioning video game in a group of three during a time period of three weeks.
+Due to the tight time constraint, the game still contains various bugs like a quirky enemy ai, clipping errors and missing textures.
+
+My assignment in the project group was the implementation of the ballistics for grenades and projectiles, the implementation of the particle systems as well as the programming of a fast and precise collision detection.
+
+### My contribution to the project
+
+💡 Implement particle systems rendering  
+💡 Develop a fast and precise collision detection  
+💡 Implement ballistics for the grenades and projectiles  
+
+### Project details:
+👷 Team size: ~3 people  
+⌚ Time of collaboration: 3 week project during spring semester 2011 
