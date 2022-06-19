@@ -87,6 +87,8 @@ Registering at the TVD is mandatory for Swiss farmers keeping cattle, pigs, shee
 
 <img src="https://i.ytimg.com/vi/zWBN-pcbIxc/maxresdefault.jpg" alt="Farming Simulator Screenshot"/><br>
 
+🔗 [Project Crowd Funding Page](https://de.ulule.com/farming-simulator/)  
+
 GIANTS Software Gmbh is an independent Swiss game developer company and inventor of the *Farming Simulator* franchise.
 
 The *Farming Simulator Dedicated Server* software allows to run a *Farming Simulator* multiplayer server without having players online. The farm-world can run 24/7 and players can login-in and play together whenever they want.
