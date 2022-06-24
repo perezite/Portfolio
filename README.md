@@ -136,12 +136,12 @@ My assignment in the project group was the implementation of the ballistics for 
 
 ## Blear
 
-<img src="https://github.com/perezite/blear/blob/main/Documents/Screenshots/Screenshot2.png?raw=true" alt="eTransit App Screenshot 1" width="200"/>
-<img src="https://github.com/perezite/blear/blob/main/Documents/Screenshots/Screenshot3.png?raw=true" alt="eTransit App Screenshot 1" width="200"/>
-<img src="https://github.com/perezite/blear/blob/main/Documents/Screenshots/Slide1.png?raw=true" alt="eTransit App Screenshot 1" width="200"/>
+<img src="https://github.com/perezite/blear/blob/main/Documents/Screenshots/Screenshot2.png?raw=true" alt="Blear Screenshot 1" width="200"/>
+<img src="https://github.com/perezite/blear/blob/main/Documents/Screenshots/Screenshot3.png?raw=true" alt="Blear Screenshot 2" width="200"/>
+<img src="https://github.com/perezite/blear/blob/main/Documents/Screenshots/Slide1.png?raw=true" alt="Blear Screenshot 3" width="200"/>
 
 🔗 [Github Repository](https://github.com/perezite/blear)  
-🔗 [Download Page (Windows Version)](https://github.com/perezite/blear/releases)
+🔗 [Download Page (Windows)](https://github.com/perezite/blear/releases)
 
 An Arkanoid inspired action game, made with the Unity 3D Engine.
 
@@ -162,5 +162,44 @@ Pretty much everything was made by myself:
 👷 Team size: Myself  
 ⌚ Project timeframe: Several months during summer 2016
 
+## O2 (a C++ 2D Game Engine)
+
+<img src="https://raw.githubusercontent.com/perezite/o2-blocks/master/docs/Screenshots/Screenshot1.png" alt="O2 Blocks Screenshot 1" width="300"/>
+<img src="https://raw.githubusercontent.com/perezite/o2-blocks/master/docs/Screenshots/Screenshot2.png" alt="O2 Blocks Screenshot 2" width="300"/>
+
+🔗 [Github Repository (Example game made with the O2 Game Engine)](https://github.com/perezite/o2-blocks)  
+🔗 [Download Page (Windows and Android) (Example game made with O2 Game Engine)](https://github.com/perezite/o2-blocks/releases/)
+
+**O2** is a C++ cross-platform 2D game engine. It currently supports Android and Windows.
+
+The engine is strongly influenced by **SFML**. SFML does not officially support mobile platforms, however. I dedided to roll my own engine and use **SDL (Simple Direct Media Layer)** as a basis for the platform dependent functionality (like input/ouptut and window creation). The rendering is done in **OpenGL** / **OpenGL ES**, without using abstractions from SDL.
+The game is fully integrated into Visua Studio, i.e. the game can be built and debugged from within Visual studio for both Windows and Android.
+
+After tinkering with the engine code for quite some time, I decided to create an actual self-contained game with it. So I created a game called **O2 Blocks** - see screenshots. It's something similiar to Tetris, but with over-the-top effects and explosions (which are not really visible in the screenshots). The game also features the supposedly most annoying sound effects in the history of mankind 😋... I created these sound effects with the audio generator software **SFXR**.
+
+I strive to continuously improve the code add new functionality to the engine. At the time of writing, I am refactoring the audio code to use the audio library [**miniaudio**](https://github.com/mackron/miniaudio), instead of the dated SDL audio capabilities which are currently in use. I also plan to move the engine code, which currently lives only inside the game, to a dedicated repository and include it using [Git submodules](https://git-scm.com/book/de/v2/Git-Tools-Submodule).
+
+The 2D engine currently supports the following features  
+- Cross-platform on Windows and Android
+- Fully integrated into Visual Studio
+- Batched 2D texture rendering using OpenGL
+- Input/Output handling (mouse, keyboard, mobile touch screen)
+- Logging
+- Animation system using [tweens (also called easings)](http://robertpenner.com/easing/)
+- Camera system
+- Particle systems
+- Music and Sound playback
+
+### My contribution to the project
+
+💡 Create the O2 game engine code based on **SDL**, using **OpenGL** and **C++**  
+💡 Create the tetris-inspired game **O2 Blocks**, based on the O2 Game Engine
+
+### Project details:
+
+👷 Team size: Myself  
+⌚ Project timeframe: Continuous, over several years
+
 # Disclaimer
+
 External links to other sites and links to external content (images, etc.) are being provided as a convenience and for informational purposes only; they do not constitute any endorsement or an approval. No responsibility for the accuracy, legality or content of external links and links to external content is assumed. Contact the external site for answers to questions regarding its content.
