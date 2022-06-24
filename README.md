@@ -10,7 +10,7 @@ The following is a (non-exhaustive) list of projects I contributed to as a softw
 ## eTransit
 
 <img src="https://play-lh.googleusercontent.com/VylNnq_c1m6hTLlRMXkkJ1HUAZbSSJU4YmUacdl5kr4-K0uV9NkeDBca-mqnmZBGpQ=w2560-h1440-rw" alt="eTransit App Screenshot 1" width="200"/>
-<img src="https://play-lh.googleusercontent.com/4xqIl14dqnMej9KmwqI_TsqbkWnLOe8KbA1sm7FVUUDrqnEULlo0xM46Qdwh-naEPzw=w2560-h1440-rw" alt="eTransit App Screenshot 2" width="200"/>
+<img src="https://play-lh.googleusercontent.com/mh3bxqJQEZkROpeBpefUOrO4mm3pGog1anE4LGzC8AqpBGY6rp4ZO_JVogvfdqlDRoM=w2560-h1440-rw" alt="eTransit App Screenshot 2" width="200"/>
 <img src="https://play-lh.googleusercontent.com/4xqIl14dqnMej9KmwqI_TsqbkWnLOe8KbA1sm7FVUUDrqnEULlo0xM46Qdwh-naEPzw=w2560-h1440-rw" alt="eTransit App Screenshot 3" width="200"/>
 
 eTransit is a mobile app for managing livestock transport documents, created by [Identitas AG](https://www.identitas.ch)
@@ -37,7 +37,7 @@ The system is also accompanied by a web app, allowing the user to inspect and ma
 ### Project details
 
 👷 Team size: ~7 people  
-⌚ Time of collaboration: Year 2020
+⌚ collaboration timeframe: Year 2020
 
 ## SmartCow
 
@@ -64,7 +64,7 @@ It is also possible to notify the Swiss animal traffic database about several li
 ### Project details
 
 👷 Team size: ~3 people  
-⌚ Time of collaboration: Years 2018 - 2019
+⌚ Collaboration timeframe: Years 2018 - 2019
 
 ## Tierverkehrsdatenbank (Swiss Animal Traffic Database)
 
@@ -83,7 +83,7 @@ Registering at the TVD is mandatory for Swiss farmers keeping cattle, pigs, shee
 
 ### Project details
 👷 Team size: ~8 people  
-⌚ Time of collaboration: Years 2017 - 2018
+⌚ Collaboration timeframe: Years 2017 - 2018
 
 ## Farming Simulator Dedicated Server
 
@@ -103,9 +103,9 @@ The *Farming Simulator Dedicated Server* software allows to run a *Farming Simul
 ### Project details
 
 👷 Team size: ~2 people  
-⌚ Time of collaboration: Year 2013
+⌚ Collaboration timeframe: Year 2013
 
-# University Projects
+# Personal and University Projects
 
 ## Tank Game
 
@@ -132,4 +132,35 @@ My assignment in the project group was the implementation of the ballistics for 
 
 ### Project details:
 👷 Team size: ~3 people  
-⌚ Time of collaboration: 3 week project during spring semester 2011 
+⌚ Collaboration timeframe: 3 week project during spring semester 2011
+
+## Blear
+
+<img src="https://github.com/perezite/blear/blob/main/Documents/Screenshots/Screenshot2.png?raw=true" alt="eTransit App Screenshot 1" width="200"/>
+<img src="https://github.com/perezite/blear/blob/main/Documents/Screenshots/Screenshot3.png?raw=true" alt="eTransit App Screenshot 1" width="200"/>
+<img src="https://github.com/perezite/blear/blob/main/Documents/Screenshots/Slide1.png?raw=true" alt="eTransit App Screenshot 1" width="200"/>
+
+🔗 [Github Repository](https://github.com/perezite/blear)  
+🔗 [Download Page (Windows Version)](https://github.com/perezite/blear/releases)
+
+An Arkanoid inspired action game, made with the Unity 3D Engine.
+
+This was my biggest personal project in Unity 3D so far. Code and graphics were all created by myself. To create the graphics, I used the open source vector graphics software Inkscape.  
+I really wanted to make a self-containted, complete game with production quality - which I think I have succeeded in. I even took some time off from my regular job to learn Unity 3D and complete this project! Finally, I published the app to the Android app store.
+
+The original Android version (not available anymore) contained some commercially licensed external content. To avoid copyright issues, I replaced these textures / music clips with placeholders in the downloadable Windows version above. This means, that some texture have - let's say varying quality (in other words: some things look really ugly, especially in the main menu...). Thank you for your understanding.
+
+### My contribution to the project
+
+Pretty much everything was made by myself:  
+💡 Create and code the game using **Unity 3D** and **C#**  
+💡 Create most of the graphics assets using graphics software like **Inkscape** and **Gimp**   
+💡 Remix free music and sound clips using the audio software **Audacity**
+
+### Project details:
+
+👷 Team size: Myself  
+⌚ Project timeframe: Several months during summer 2016
+
+# Disclaimer
+External links to other sites and links to external content (images, etc.) are being provided as a convenience and for informational purposes only; they do not constitute any endorsement or an approval. No responsibility for the accuracy, legality or content of external links and links to external content is assumed. Contact the external site for answers to questions regarding its content.
