@@ -228,6 +228,39 @@ This game was created during the [Global Game Jam 2015](https://globalgamejam.or
 👷 Team size: 3 people  
 ⌚ Project timeframe: One weekend, during the [Global Game Jam 2015](https://globalgamejam.org/)
 
+## Clan Manager
+
+<img src="https://raw.githubusercontent.com/perezite/Portfolio/main/Documents/Screenshots/ClanManagerScreenshot1.bmp" alt="Clan Manager Screenshot 1"/>
+
+<img src="https://raw.githubusercontent.com/perezite/Portfolio/main/Documents/Screenshots/ClanManagerScreenshot2.bmp" alt="Clan Manager Screeenshot 2"/>
+
+🔗 [Github Repository](https://github.com/perezite/clan-manager)  
+🔗 [Download Page](https://github.com/perezite/clan-manager/releases)  
+
+A web-based application for accounting and billing, tailored to the specific needs of a gamehoster company.
+
+Clan Manager is a web-based application for managing and billing clients (called gaming clans) of a gamehoster company.
+
+The application features the following functions:
+
+- Specify information about the clans, including name, contact information and accounting number
+- Specify information about the operated gameservers, including server name, IP address, optional discount information, pricing, terms of payment etc.
+- Assign gameservers to clans
+- Suspend/Reactivate the operation of gameservers
+- Track the payments made by the clans, including highlighting when payments or demand notes are due
+- A slick PHP web interface
+
+I created Clan Manager for friends who where getting into the gameserver hosting business at this time. This was back when we were all in highschool. They needed a software to manage their customers, so I created an app in PHP to support their business. It was the first time I actually made money with writing software!
+
+### My contribution to the project
+
+💡 Create a small customer management software in **PHP** and **MySQL**
+
+### Project details:
+
+👷 Team size: Myself  
+⌚ Project timeframe: About two weeks, somewhere around 2005
+
 # Disclaimer
 
 External links to other sites and links to external content (images, etc.) are being provided as a convenience and for informational purposes only; they do not constitute any endorsement or an approval. No responsibility for the accuracy, legality or content of external links and links to external content is assumed. Contact the external site for answers to questions regarding its content.
