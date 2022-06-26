@@ -9,15 +9,17 @@ The following is a (non-exhaustive) list of projects I contributed to as a softw
 
 ## eTransit
 
-<img src="https://play-lh.googleusercontent.com/VylNnq_c1m6hTLlRMXkkJ1HUAZbSSJU4YmUacdl5kr4-K0uV9NkeDBca-mqnmZBGpQ=w2560-h1440-rw" alt="eTransit App Screenshot 1" width="200"/>
-<img src="https://play-lh.googleusercontent.com/mh3bxqJQEZkROpeBpefUOrO4mm3pGog1anE4LGzC8AqpBGY6rp4ZO_JVogvfdqlDRoM=w2560-h1440-rw" alt="eTransit App Screenshot 2" width="200"/>
-<img src="https://play-lh.googleusercontent.com/4xqIl14dqnMej9KmwqI_TsqbkWnLOe8KbA1sm7FVUUDrqnEULlo0xM46Qdwh-naEPzw=w2560-h1440-rw" alt="eTransit App Screenshot 3" width="200"/>
+<img src="https://play-lh.googleusercontent.com/VylNnq_c1m6hTLlRMXkkJ1HUAZbSSJU4YmUacdl5kr4-K0uV9NkeDBca-mqnmZBGpQ=w2560-h1440-rw" alt="eTransit App Screenshot 1" height="400px"/>
+<img src="https://play-lh.googleusercontent.com/mh3bxqJQEZkROpeBpefUOrO4mm3pGog1anE4LGzC8AqpBGY6rp4ZO_JVogvfdqlDRoM=w2560-h1440-rw" alt="eTransit App Screenshot 2" height="400px"/>
+<img src="https://play-lh.googleusercontent.com/4xqIl14dqnMej9KmwqI_TsqbkWnLOe8KbA1sm7FVUUDrqnEULlo0xM46Qdwh-naEPzw=w2560-h1440-rw" alt="eTransit App Screenshot 3" height="400px"/>
 
-eTransit is a mobile app for managing livestock transport documents, created by [Identitas AG](https://www.identitas.ch)
+<br/>
 
 🔗 [Product Landing Page](https://www.identitas.ch/produkte/etransit)  
 🔗 [iOS App Download](https://apps.apple.com/ch/app/etransit-farmer/id1495796994)  
 🔗 [Android App Download](https://play.google.com/store/apps/details?id=ch.identitas.ebdthapp)
+
+eTransit is a mobile app for managing livestock transport documents, created by [Identitas AG](https://www.identitas.ch)
 
 In Switzerland, every chauffeur conducting a livestock transport is required by law to carry a document during all stages of the transport: The so called accompanying document. It contains information like the number of transported animals and the duration of the transport, ensuring compliance with Swiss animal protection laws and therefore helping to increase animal welfare.  
 
@@ -41,15 +43,17 @@ The system is also accompanied by a web app, allowing the user to inspect and ma
 
 ## SmartCow
 
-<img src="https://play-lh.googleusercontent.com/8S1Ri51nSVxwjuxVpbCJZtYcf59kmaiXybIb7pc2c5RWnFMxx3gJhHKAyoAfYU3bGcnK=w2560-h1440-rw" alt="Smartcow App Screenshot 1" width="200"/>
-<img src="https://play-lh.googleusercontent.com/-wTXrWF7lElgWXpMgRzyE3mhyxvPSEE4eGOMgF9ilA7KJY93z8-YEL6OxSffYjgeAVA=w2560-h1440-rw" alt="Smartcow App Screenshot 2" width="200"/>
-<img src="https://play-lh.googleusercontent.com/X-ADWkAo5kKRcEd1wCwMdMzYH4-GYxkMegJkiD6sMmv0d5BlZZJjIBzd8jokm6gTFzY=w2560-h1440-rw" alt="Smartcow App Screenshot 3" width="200"/>
+<img src="https://play-lh.googleusercontent.com/8S1Ri51nSVxwjuxVpbCJZtYcf59kmaiXybIb7pc2c5RWnFMxx3gJhHKAyoAfYU3bGcnK=w2560-h1440-rw" alt="Smartcow App Screenshot 1" height="400px"/>
+<img src="https://play-lh.googleusercontent.com/-wTXrWF7lElgWXpMgRzyE3mhyxvPSEE4eGOMgF9ilA7KJY93z8-YEL6OxSffYjgeAVA=w2560-h1440-rw" alt="Smartcow App Screenshot 2" height="400px"/>
+<img src="https://play-lh.googleusercontent.com/X-ADWkAo5kKRcEd1wCwMdMzYH4-GYxkMegJkiD6sMmv0d5BlZZJjIBzd8jokm6gTFzY=w2560-h1440-rw" alt="Smartcow App Screenshot 3" height="400px"/>
 
-SmartCow is a mobile app for cattle herd management, developed by [Identitas AG](https://www.identitas.ch/) on behalf of [Swissgenetics](https://swissgenetics.ch/).
+<br/>
 
 🔗 [Product Landing Page](https://swissgenetics.ch/onlineservice/smartcow/)  
 🔗 [iOS App Download](https://apps.apple.com/ch/app/smartcow/id716603209)  
 🔗 [Android App Download](https://play.google.com/store/apps/details?id=ch.swissgenetics.smartcow)
+
+SmartCow is a mobile app for cattle herd management, developed by [Identitas AG](https://www.identitas.ch/) on behalf of [Swissgenetics](https://swissgenetics.ch/).
 
 The SmartCow app enables farmers to manage their cattle herd using their mobile phone.
 
@@ -68,11 +72,11 @@ It is also possible to notify the Swiss animal traffic database about several li
 
 ## Tierverkehrsdatenbank (Swiss Animal Traffic Database)
 
-<img src="https://www.identitas.ch/fileadmin/_processed_/6/4/csm_header_schaf_f7a948ba59.jpg" alt="TVD Image"/>
-
-The 'Tierverkehrsdatenbank' (TVD) is the central Swiss animal traffic database for animal based food safety and disease control in Switzerland. The system is developed an maintained by [Identitas AG](https://www.identitas.ch/) on behalf of the Swiss government.
+<img src="https://www.identitas.ch/fileadmin/_processed_/6/4/csm_header_schaf_f7a948ba59.jpg" alt="TVD Image" /><br/>
 
 🔗 [Product Landing Page](https://www.identitas.ch/produkte/tierverkehrsdatenbank-tvd)  
+
+The 'Tierverkehrsdatenbank' (TVD) is the central Swiss animal traffic database for animal based food safety and disease control in Switzerland. The system is developed an maintained by [Identitas AG](https://www.identitas.ch/) on behalf of the Swiss government.
 
 Farmers can use a web app to register different events in their livestock like animals leaving or arriving at their farm, birth or death of animals as well as various other events.  
 This data can be used for disease control in the case of an animal disease outbreak and is also used to ensure meat food safety in Switzerland.  
@@ -87,7 +91,9 @@ Registering at the TVD is mandatory for Swiss farmers keeping cattle, pigs, shee
 
 ## Farming Simulator Dedicated Server
 
-<img src="https://i.ytimg.com/vi/zWBN-pcbIxc/maxresdefault.jpg" alt="Farming Simulator Screenshot"/><br>
+<img src="https://i.ytimg.com/vi/zWBN-pcbIxc/maxresdefault.jpg" alt="Farming Simulator Screenshot" height="400px"/>
+
+<br/>
 
 🔗 [Project Crowd Funding Page](https://de.ulule.com/farming-simulator/)  
 
@@ -111,7 +117,9 @@ A list of various projects I worked on as a university student or privately.
 
 ## Tank Game
 
-![Tank Game Screenshot](https://github.com/perezite/tank-game/raw/main/assets/screenshot1.png)
+<img src="https://github.com/perezite/tank-game/raw/main/assets/screenshot1.png" alt="Tank Game Screenshot" height="400px"/>
+
+<br/>
 
 🔗 [Github Repository](https://github.com/perezite/tank-game)  
 🔗 [Download Page](https://github.com/perezite/tank-game/releases/tag/v1.0.0)
@@ -138,9 +146,10 @@ My assignment in the project group was the implementation of the ballistics for 
 
 ## Blear
 
-<img src="https://github.com/perezite/blear/blob/main/Documents/Screenshots/Screenshot2.png?raw=true" alt="Blear Screenshot 1" width="200"/>
-<img src="https://github.com/perezite/blear/blob/main/Documents/Screenshots/Screenshot3.png?raw=true" alt="Blear Screenshot 2" width="200"/>
-<img src="https://github.com/perezite/blear/blob/main/Documents/Screenshots/Slide1.png?raw=true" alt="Blear Screenshot 3" width="200"/>
+<img src="https://github.com/perezite/blear/blob/main/Documents/Screenshots/Screenshot2.png?raw=true" alt="Blear Screenshot 1" height="400px"/>
+<img src="https://github.com/perezite/blear/blob/main/Documents/Screenshots/Screenshot3.png?raw=true" alt="Blear Screenshot 2" height="400px"/>
+
+<br/>
 
 🔗 [Github Repository](https://github.com/perezite/blear)  
 🔗 [Download Page (Windows)](https://github.com/perezite/blear/releases)
@@ -166,8 +175,10 @@ Pretty much everything was made by myself:
 
 ## O2 (a C++ 2D Game Engine)
 
-<img src="https://raw.githubusercontent.com/perezite/o2-blocks/master/docs/Screenshots/Screenshot1.png" alt="O2 Blocks Screenshot 1" height="300px"/>
-<img src="https://raw.githubusercontent.com/perezite/o2-blocks/master/docs/Screenshots/Screenshot2.png" alt="O2 Blocks Screenshot 2" height="300px"/>
+<img src="https://raw.githubusercontent.com/perezite/o2-blocks/master/docs/Screenshots/Screenshot1.png" alt="O2 Blocks Screenshot 1" height="400px"/>
+<img src="https://raw.githubusercontent.com/perezite/o2-blocks/master/docs/Screenshots/Screenshot2.png" alt="O2 Blocks Screenshot 2" height="400px"/>
+
+<br/>
 
 🔗 [Github Repository (Example game made with the O2 Game Engine)](https://github.com/perezite/o2-blocks)  
 🔗 [Download Page (Windows and Android) (Example game made with O2 Game Engine)](https://github.com/perezite/o2-blocks/releases/)
@@ -204,10 +215,12 @@ The 2D engine currently supports the following features
 
 ## Tech Support Game
 
-<img src="https://github.com/perezite/tech-support-game/blob/master/Documents/Screenshots/Screenshot1.png?raw=true" alt="Tech Support Screenshot 1" width="700px"/>
+<img src="https://github.com/perezite/tech-support-game/blob/master/Documents/Screenshots/Screenshot1.png?raw=true" alt="Tech Support Screenshot 1" height="400px"/><br/>
 
-<img src="https://globalgamejam.org/sites/default/files/styles/game_content__wide/public/games/screenshots/screen4_18.jpg?itok=q2TWkQoV&timestamp=1422215729" alt="Tech Support Screenshot 2" width="350px"/>
-<img src="https://globalgamejam.org/sites/default/files/styles/game_content__wide/public/games/screenshots/screen5_7.jpg?itok=7OxwCNdO&timestamp=1422215729" alt="Tech Support Screenshot 3" width="350"/>
+<img src="https://globalgamejam.org/sites/default/files/styles/game_content__wide/public/games/screenshots/screen4_18.jpg?itok=q2TWkQoV&timestamp=1422215729" alt="Tech Support Screenshot 2" height="250px"/>
+<img src="https://globalgamejam.org/sites/default/files/styles/game_content__wide/public/games/screenshots/screen5_7.jpg?itok=7OxwCNdO&timestamp=1422215729" alt="Tech Support Screenshot 3" height="250px"/>
+
+<br/>
 
 🔗 [Github Repository](https://github.com/perezite/tech-support-game)  
 🔗 [Download Page (Windows)](https://github.com/perezite/tech-support-game/releases/)  
