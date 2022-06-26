@@ -166,8 +166,8 @@ Pretty much everything was made by myself:
 
 ## O2 (a C++ 2D Game Engine)
 
-<img src="https://raw.githubusercontent.com/perezite/o2-blocks/master/docs/Screenshots/Screenshot1.png" alt="O2 Blocks Screenshot 1" width="300"/>
-<img src="https://raw.githubusercontent.com/perezite/o2-blocks/master/docs/Screenshots/Screenshot2.png" alt="O2 Blocks Screenshot 2" width="300"/>
+<img src="https://raw.githubusercontent.com/perezite/o2-blocks/master/docs/Screenshots/Screenshot1.png" alt="O2 Blocks Screenshot 1" height="300px"/>
+<img src="https://raw.githubusercontent.com/perezite/o2-blocks/master/docs/Screenshots/Screenshot2.png" alt="O2 Blocks Screenshot 2" height="300px"/>
 
 🔗 [Github Repository (Example game made with the O2 Game Engine)](https://github.com/perezite/o2-blocks)  
 🔗 [Download Page (Windows and Android) (Example game made with O2 Game Engine)](https://github.com/perezite/o2-blocks/releases/)
@@ -177,7 +177,7 @@ Pretty much everything was made by myself:
 The engine is strongly influenced by **SFML**. SFML does not officially support mobile platforms, however. I dedided to roll my own engine and use **SDL (Simple Direct Media Layer)** as a basis for the platform dependent functionality (like input/ouptut and window creation). The rendering is done in **OpenGL** / **OpenGL ES**, without using abstractions from SDL.
 The game is fully integrated into Visua Studio, i.e. the game can be built and debugged from within Visual studio for both Windows and Android.
 
-After tinkering with the engine code for quite some time, I decided to create an actual self-contained game with it. So I created a game called **O2 Blocks** - see screenshots. It's something similiar to Tetris, but with over-the-top effects and explosions (which are not really visible in the screenshots). The game also features the supposedly most annoying sound effects in the history of mankind 😋... I created these sound effects with the audio generator software **SFXR**.
+After tinkering with the engine code for quite some time, I decided to create an actual self-contained game with it. So I created a game called **O2 Blocks** - see screenshots. It's something similiar to Tetris, but with over-the-top effects and explosions (which are not really visible in the screenshots). The game also features the supposedly most annoying sound effects ever...
 
 I strive to continuously improve the code add new functionality to the engine. At the time of writing, I am refactoring the audio code to use the audio library [**miniaudio**](https://github.com/mackron/miniaudio), instead of the dated SDL audio capabilities which are currently in use. I also plan to move the engine code, which currently lives only inside the game, to a dedicated repository and include it using [Git submodules](https://git-scm.com/book/de/v2/Git-Tools-Submodule).
 
@@ -204,11 +204,10 @@ The 2D engine currently supports the following features
 
 ## Tech Support Game
 
-<img src="https://github.com/perezite/tech-support-game/blob/master/Documents/Screenshots/Screenshot1.png?raw=true" alt="Tech Support Screenshot 1"/>
+<img src="https://github.com/perezite/tech-support-game/blob/master/Documents/Screenshots/Screenshot1.png?raw=true" alt="Tech Support Screenshot 1" width="700px"/>
 
-<img src="https://globalgamejam.org/sites/default/files/styles/game_content__wide/public/games/screenshots/screen4_18.jpg?itok=q2TWkQoV&timestamp=1422215729" alt="Tech Support Screenshot 2"/>
-
-<img src="https://globalgamejam.org/sites/default/files/styles/game_content__wide/public/games/screenshots/screen5_7.jpg?itok=7OxwCNdO&timestamp=1422215729" alt="Tech Support Screenshot 3"/>
+<img src="https://globalgamejam.org/sites/default/files/styles/game_content__wide/public/games/screenshots/screen4_18.jpg?itok=q2TWkQoV&timestamp=1422215729" alt="Tech Support Screenshot 2" width="350px"/>
+<img src="https://globalgamejam.org/sites/default/files/styles/game_content__wide/public/games/screenshots/screen5_7.jpg?itok=7OxwCNdO&timestamp=1422215729" alt="Tech Support Screenshot 3" width="350"/>
 
 🔗 [Github Repository](https://github.com/perezite/tech-support-game)  
 🔗 [Download Page (Windows)](https://github.com/perezite/tech-support-game/releases/)  
@@ -232,9 +231,9 @@ This game was created during the [Global Game Jam 2015](https://globalgamejam.or
 
 ## Clan Manager
 
-<img src="https://raw.githubusercontent.com/perezite/Portfolio/main/Documents/Screenshots/ClanManagerScreenshot1.bmp" alt="Clan Manager Screenshot 1"/>
+<img src="https://raw.githubusercontent.com/perezite/Portfolio/main/Documents/Screenshots/ClanManagerScreenshot1.bmp" alt="Clan Manager Screenshot 1" width="700px"/>
 
-<img src="https://raw.githubusercontent.com/perezite/Portfolio/main/Documents/Screenshots/ClanManagerScreenshot2.bmp" alt="Clan Manager Screeenshot 2"/>
+<img src="https://raw.githubusercontent.com/perezite/Portfolio/main/Documents/Screenshots/ClanManagerScreenshot2.bmp" alt="Clan Manager Screeenshot 2" width="700px"/>
 
 🔗 [Github Repository](https://github.com/perezite/clan-manager)  
 🔗 [Download Page](https://github.com/perezite/clan-manager/releases)  
