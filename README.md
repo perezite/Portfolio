@@ -250,7 +250,7 @@ The application features the following functions:
 - Track the payments made by the clans, including highlighting when payments or demand notes are due
 - A slick PHP web interface
 
-I created Clan Manager for friends who where getting into the gameserver hosting business at this time. This was back when we were all in highschool. They needed a software to manage their customers, so I created an app in PHP to support their business. It was the first time I actually made money with writing software!
+I created Clan Manager for friends who where getting into the gameserver hosting business at this time. This was back when we were all in highschool. They needed a software to manage their customers, so I created an app in PHP to support their business. It was the first time I actually made some money with writing software!
 
 ### My contribution to the project
 
@@ -261,6 +261,28 @@ I created Clan Manager for friends who where getting into the gameserver hosting
 👷 Team size: Myself  
 ⌚ Project timeframe: About two weeks, somewhere around 2005
 
+## 2D Rigid Body Physics Simulation
+
+![Rigid Body Screenshot](https://github.com/perezite/rigid-body/blob/main/docs/screenshots/RigidBodyScreenshot2.png?raw=true)
+
+🔗 [Github Repository](https://github.com/perezite/rigid-body)  
+🔗 [Download Page (Windows)](hhttps://github.com/perezite/rigid-body/releases/tag/v1.0.0)  
+
+This program is a 2D physics simulation, inspired by the [Rigid Body Dynamics Tutorial by Chris Hecker](https://www.chrishecker.com/Rigid_Body_Dynamics)
+
+The program simulates a freely movable two dimensional cube which hangs on two ropes. The end of one rope can be moved around using the mouse.  
+The two ropes can be toggled on or off. If you set them to off, the cube will fall to the ground in a physically accurate way.  
+
+### My contribution to the project
+
+💡 Implement a simple **2D rigid body physics** simulation and 2D rendering in **OpenGL**
+
+### Project details:
+
+👷 Team size: Myself  
+⌚ Project timeframe: Sometime back in high school (cannot remember exactly)
+
 # Disclaimer
 
 External links to other sites and links to external content (images, etc.) are being provided as a convenience and for informational purposes only; they do not constitute any endorsement or an approval. No responsibility for the accuracy, legality or content of external links and links to external content is assumed. Contact the external site for answers to questions regarding its content.
+
