@@ -284,6 +284,13 @@ The two ropes can be toggled on or off. If you set them to off, the cube will fa
 <img src="https://raw.githubusercontent.com/perezite/sdl-tetris/main/docs/screenshots/SDL%20Tetris%20Screenshot%201.png" alt="SDL Tetris Screenshot" width="200"/>
 <img src="https://github.com/perezite/sfml-breakout/blob/master/docs/screenshots/SFML%20Breakout%20Screenshot%201.png?raw=true" alt="SFML Breakout Screenshot" width="200"/> 
 
+🔗 [Tetris clone Github Repository](https://github.com/perezite/sdl-tetris)
+🔗 [Breakout clone Github Repository](https://github.com/perezite/sfml-breakout)  
+🔗 [Tetris clone download page (Windows)](https://github.com/perezite/sdl-tetris/releases)
+🔗 [Breakout clone download page (Windows)](https://github.com/perezite/sfml-breakout/releases)
+
+
+
 Two arcade game clones I made with the SDL and with the SFML game library, respectively.  
 Nothing fancy, just two basic clones of Tetris and Breakout.  
 These projects were my first attempts at using SDL and SFML. Especially the clean and simple api of SFML piqued my interest in game libraries and game programming in general.
