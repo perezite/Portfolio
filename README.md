@@ -13,8 +13,6 @@ The following is a (non-exhaustive) list of projects I contributed to as a softw
 <img src="https://play-lh.googleusercontent.com/mh3bxqJQEZkROpeBpefUOrO4mm3pGog1anE4LGzC8AqpBGY6rp4ZO_JVogvfdqlDRoM=w2560-h1440-rw" alt="eTransit App Screenshot 2" height="400px"/>
 <img src="https://play-lh.googleusercontent.com/4xqIl14dqnMej9KmwqI_TsqbkWnLOe8KbA1sm7FVUUDrqnEULlo0xM46Qdwh-naEPzw=w2560-h1440-rw" alt="eTransit App Screenshot 3" height="400px"/>
 
-<br/>
-
 🔗 [Product Landing Page](https://www.identitas.ch/produkte/etransit)  
 🔗 [iOS App Download](https://apps.apple.com/ch/app/etransit-farmer/id1495796994)  
 🔗 [Android App Download](https://play.google.com/store/apps/details?id=ch.identitas.ebdthapp)
@@ -47,8 +45,6 @@ The system is also accompanied by a web app, allowing the user to inspect and ma
 <img src="https://play-lh.googleusercontent.com/-wTXrWF7lElgWXpMgRzyE3mhyxvPSEE4eGOMgF9ilA7KJY93z8-YEL6OxSffYjgeAVA=w2560-h1440-rw" alt="Smartcow App Screenshot 2" height="400px"/>
 <img src="https://play-lh.googleusercontent.com/X-ADWkAo5kKRcEd1wCwMdMzYH4-GYxkMegJkiD6sMmv0d5BlZZJjIBzd8jokm6gTFzY=w2560-h1440-rw" alt="Smartcow App Screenshot 3" height="400px"/>
 
-<br/>
-
 🔗 [Product Landing Page](https://swissgenetics.ch/onlineservice/smartcow/)  
 🔗 [iOS App Download](https://apps.apple.com/ch/app/smartcow/id716603209)  
 🔗 [Android App Download](https://play.google.com/store/apps/details?id=ch.swissgenetics.smartcow)
@@ -72,7 +68,7 @@ It is also possible to notify the Swiss animal traffic database about several li
 
 ## Tierverkehrsdatenbank (Swiss Animal Traffic Database)
 
-<img src="https://www.identitas.ch/fileadmin/_processed_/6/4/csm_header_schaf_f7a948ba59.jpg" alt="TVD Image" /><br/>
+<img src="https://www.identitas.ch/fileadmin/_processed_/6/4/csm_header_schaf_f7a948ba59.jpg" alt="TVD Image" style="max-height: 400px" />
 
 🔗 [Product Landing Page](https://www.identitas.ch/produkte/tierverkehrsdatenbank-tvd)  
 
@@ -91,9 +87,7 @@ Registering at the TVD is mandatory for Swiss farmers keeping cattle, pigs, shee
 
 ## Farming Simulator Dedicated Server
 
-<img src="https://i.ytimg.com/vi/zWBN-pcbIxc/maxresdefault.jpg" alt="Farming Simulator Screenshot" height="400px"/>
-
-<br/>
+<img src="https://i.ytimg.com/vi/zWBN-pcbIxc/maxresdefault.jpg" alt="Farming Simulator Screenshot" style="max-height: 400px"/>
 
 🔗 [Project Crowd Funding Page](https://de.ulule.com/farming-simulator/)  
 
@@ -117,9 +111,7 @@ A list of various projects I worked on as a university student or privately.
 
 ## Tank Game
 
-<img src="https://github.com/perezite/tank-game/raw/main/assets/screenshot1.png" alt="Tank Game Screenshot" height="400px"/>
-
-<br/>
+<img src="https://github.com/perezite/tank-game/raw/main/assets/screenshot1.png" alt="Tank Game Screenshot" style="max-height: 400px"/>
 
 🔗 [Github Repository](https://github.com/perezite/tank-game)  
 🔗 [Download Page](https://github.com/perezite/tank-game/releases/tag/v1.0.0)
@@ -149,8 +141,6 @@ My assignment in the project group was the implementation of the ballistics for 
 <img src="https://github.com/perezite/blear/blob/main/Documents/Screenshots/Screenshot2.png?raw=true" alt="Blear Screenshot 1" height="400px"/>
 <img src="https://github.com/perezite/blear/blob/main/Documents/Screenshots/Screenshot3.png?raw=true" alt="Blear Screenshot 2" height="400px"/>
 
-<br/>
-
 🔗 [Github Repository](https://github.com/perezite/blear)  
 🔗 [Download Page (Windows)](https://github.com/perezite/blear/releases)
 
@@ -177,8 +167,6 @@ Pretty much everything was made by myself:
 
 <img src="https://raw.githubusercontent.com/perezite/o2-blocks/master/docs/Screenshots/Screenshot1.png" alt="O2 Blocks Screenshot 1" height="400px"/>
 <img src="https://raw.githubusercontent.com/perezite/o2-blocks/master/docs/Screenshots/Screenshot2.png" alt="O2 Blocks Screenshot 2" height="400px"/>
-
-<br/>
 
 🔗 [Github Repository (Example game made with the O2 Game Engine)](https://github.com/perezite/o2-blocks)  
 🔗 [Download Page (Windows and Android) (Example game made with O2 Game Engine)](https://github.com/perezite/o2-blocks/releases/)
@@ -215,12 +203,10 @@ The 2D engine currently supports the following features
 
 ## Tech Support Game
 
-<img src="https://github.com/perezite/tech-support-game/blob/master/Documents/Screenshots/Screenshot1.png?raw=true" alt="Tech Support Screenshot 1" height="400px"/><br/>
+<img src="https://github.com/perezite/tech-support-game/blob/master/Documents/Screenshots/Screenshot1.png?raw=true" alt="Tech Support Screenshot 1" height="400px"/>
 
 <img src="https://globalgamejam.org/sites/default/files/styles/game_content__wide/public/games/screenshots/screen4_18.jpg?itok=q2TWkQoV&timestamp=1422215729" alt="Tech Support Screenshot 2" height="250px"/>
 <img src="https://globalgamejam.org/sites/default/files/styles/game_content__wide/public/games/screenshots/screen5_7.jpg?itok=7OxwCNdO&timestamp=1422215729" alt="Tech Support Screenshot 3" height="250px"/>
-
-<br/>
 
 🔗 [Github Repository](https://github.com/perezite/tech-support-game)  
 🔗 [Download Page (Windows)](https://github.com/perezite/tech-support-game/releases/)  
@@ -244,9 +230,9 @@ This game was created during the [Global Game Jam 2015](https://globalgamejam.or
 
 ## Clan Manager
 
-<img src="https://raw.githubusercontent.com/perezite/Portfolio/main/Documents/Screenshots/ClanManagerScreenshot1.bmp" alt="Clan Manager Screenshot 1" width="700px"/>
+<img src="https://raw.githubusercontent.com/perezite/Portfolio/main/Documents/Screenshots/ClanManagerScreenshot1.bmp" alt="Clan Manager Screenshot 1" style="max-height: 400px"/>
 
-<img src="https://raw.githubusercontent.com/perezite/Portfolio/main/Documents/Screenshots/ClanManagerScreenshot2.bmp" alt="Clan Manager Screeenshot 2" width="700px"/>
+<img src="https://raw.githubusercontent.com/perezite/Portfolio/main/Documents/Screenshots/ClanManagerScreenshot2.bmp" alt="Clan Manager Screeenshot 2" style="max-height: 400px"/>
 
 🔗 [Github Repository](https://github.com/perezite/clan-manager)  
 🔗 [Download Page](https://github.com/perezite/clan-manager/releases)  
@@ -277,7 +263,7 @@ I created Clan Manager for friends who where getting into the gameserver hosting
 
 ## 2D Rigid Body Physics Simulation
 
-![Rigid Body Screenshot](https://github.com/perezite/rigid-body/blob/main/docs/screenshots/RigidBodyScreenshot2.png?raw=true)
+<img src="https://github.com/perezite/rigid-body/blob/main/docs/screenshots/RigidBodyScreenshot2.png?raw=true" alt="Rigid Body Screenshot" style="max-height: 400px"/>
 
 🔗 [Github Repository](https://github.com/perezite/rigid-body)  
 🔗 [Download Page (Windows)](hhttps://github.com/perezite/rigid-body/releases/tag/v1.0.0)  
@@ -293,14 +279,13 @@ The two ropes can be toggled on or off. If you set them to off, the cube will fa
 
 ## Arcade Game Clones with SDL / SFML
 
-<img src="https://raw.githubusercontent.com/perezite/sdl-tetris/main/docs/screenshots/SDL%20Tetris%20Screenshot%201.png" alt="SDL Tetris Screenshot" width="200"/>
-<img src="https://github.com/perezite/sfml-breakout/blob/master/docs/screenshots/SFML%20Breakout%20Screenshot%201.png?raw=true" alt="SFML Breakout Screenshot" width="200"/> 
+<img src="https://raw.githubusercontent.com/perezite/sdl-tetris/main/docs/screenshots/SDL%20Tetris%20Screenshot%201.png" alt="SDL Tetris Screenshot" height="400px"/>
+<img src="https://github.com/perezite/sfml-breakout/blob/master/docs/screenshots/SFML%20Breakout%20Screenshot%201.png?raw=true" alt="SFML Breakout Screenshot" style="max-height: 400px"/> 
 
 🔗 [Tetris clone Github Repository](https://github.com/perezite/sdl-tetris)
 🔗 [Breakout clone Github Repository](https://github.com/perezite/sfml-breakout)  
 🔗 [Tetris clone download page (Windows)](https://github.com/perezite/sdl-tetris/releases)
 🔗 [Breakout clone download page (Windows)](https://github.com/perezite/sfml-breakout/releases)
-
 
 
 Two arcade game clones I made with the SDL and with the SFML game library, respectively.  
