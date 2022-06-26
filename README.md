@@ -107,6 +107,8 @@ The *Farming Simulator Dedicated Server* software allows to run a *Farming Simul
 
 # Personal and University Projects
 
+A list of various projects I worked on as a university student or privately.
+
 ## Tank Game
 
 ![Tank Game Screenshot](https://github.com/perezite/tank-game/raw/main/assets/screenshot1.png)
@@ -277,10 +279,19 @@ The two ropes can be toggled on or off. If you set them to off, the cube will fa
 
 💡 Implement a simple **2D rigid body physics** simulation and 2D rendering in **OpenGL**
 
-### Project details:
+## Arcade Game Clones with SDL / SFML
 
-👷 Team size: Myself  
-⌚ Project timeframe: Sometime back in high school (cannot remember exactly)
+<img src="https://raw.githubusercontent.com/perezite/sdl-tetris/main/docs/screenshots/SDL%20Tetris%20Screenshot%201.png" alt="SDL Tetris Screenshot" width="200"/>
+<img src="https://github.com/perezite/sfml-breakout/blob/master/docs/screenshots/SFML%20Breakout%20Screenshot%201.png?raw=true" alt="SFML Breakout Screenshot" width="200"/> 
+
+Two arcade game clones I made with the SDL and with the SFML game library, respectively.  
+Nothing fancy, just two basic clones of Tetris and Breakout.  
+These projects were my first attempts at using SDL and SFML. Especially the clean and simple api of SFML piqued my interest in game libraries and game programming in general.
+
+### My contribution to the projects
+
+💡 Implement a Tetris clone in **C++** and **SDL**  
+💡 Implement a Breakout clone in **C++** and **SFDML**
 
 # Disclaimer
 
