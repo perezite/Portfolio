@@ -1,4 +1,5 @@
 # Simon Schwegler
+
 🤓 .NET Fullstack Engineer with professional developer experience since 2013  
 🎮 I also love to tinker with C++ and Game Engine Programming  
 🎓 I have a degree in Physics (BSc) as well as Computational Science (MSc) from the University of Zürich
@@ -53,7 +54,7 @@ SmartCow is a mobile app for cattle herd management, developed by [Identitas AG]
 
 The SmartCow app enables farmers to manage their cattle herd using their mobile phone.
 
-The app offers a digital rutting calendar for cattle, including an automatic synchronisation of livestock data from the Swiss animal traffic database (Tierverkehrsdatenbank), of which every Swiss farmer is a member.
+The app offers a digital rutting calendar for cattle, including an automatic synchronisation of livestock data from the Swiss animal traffic database (Tierverkehrsdatenbank), of which every Swiss cattle farmer is a member.
 
 It is also possible to notify the Swiss animal traffic database about several livestock events like the birth or death of a cattle. Furthermore the app connects to several cattle breeding organization systems, giving for example access to milk performance data of individual animals in the livestock.
 
@@ -72,14 +73,14 @@ It is also possible to notify the Swiss animal traffic database about several li
 
 🔗 [Product Landing Page](https://www.identitas.ch/produkte/tierverkehrsdatenbank-tvd)  
 
-The 'Tierverkehrsdatenbank' (TVD) is the central Swiss animal traffic database for animal based food safety and disease control in Switzerland. The system is developed an maintained by [Identitas AG](https://www.identitas.ch/) on behalf of the Swiss government.
+The *Tierverkehrsdatenbank* (TVD) is the central Swiss animal traffic database for animal based food safety and disease control in Switzerland. The system is developed and maintained by [Identitas AG](https://www.identitas.ch/) on behalf of the Swiss government.
 
-Farmers can use a web app to register different events in their livestock like animals leaving or arriving at their farm, birth or death of animals as well as various other events.  
+Farmers can use a web app to register different events in their livestock like animals arriving or leaving at their farm, birth or death of animals as well as various other events.  
 This data can be used for disease control in the case of an animal disease outbreak and is also used to ensure meat food safety in Switzerland.  
 Registering at the TVD is mandatory for Swiss farmers keeping cattle, pigs, sheep and goats.
 
 ### My contribution to the project
-💡 Migrate the old and outdated Silverlight frontend to a fully web based frontend using **ASP.NET MVC**, **HTML**, **CSS**, **JavaScript** and **jQuery**.
+💡 Migrate the old and outdated Microsoft Silverlight frontend to a fully web based frontend using **ASP.NET MVC**, **HTML**, **CSS**, **JavaScript** and **jQuery**.
 
 ### Project details
 👷 Team size: ~8 people  
@@ -91,9 +92,9 @@ Registering at the TVD is mandatory for Swiss farmers keeping cattle, pigs, shee
 
 🔗 [Project Crowd Funding Page](https://de.ulule.com/farming-simulator/)  
 
-GIANTS Software Gmbh is an independent Swiss game developer company and inventor of the *Farming Simulator* franchise.
+GIANTS Software GmbH is a Swiss game developer company and inventor of the *Farming Simulator* franchise.
 
-The *Farming Simulator Dedicated Server* software allows to run a *Farming Simulator* multiplayer server without having players online. The farm-world can run 24/7 and players can login-in and play together whenever they want.
+The *Farming Simulator Dedicated Server* software allows to run a Farming Simulator multiplayer server without having players online. The farm-world can run 24/7 and players can login-in and play together whenever they want.
 
 ### My contribution to the project
 
@@ -121,7 +122,7 @@ An action game where a tank must fight its way through a 3D city full of hostile
 This game was created as a final project during the lecture
 '[Computer Graphics Lab](https://www.ifi.uzh.ch/en/vmml/teaching/lectures/computer-graphics-fs20.html)' at the University of Zurich, in cooperation with two fellow students.
 
-The goal of the project was the implementation of a functioning video game in a group of three during a time period of three weeks.
+The goal of the project was the implementation of a functioning 3D computer game in a group of three during a time period of three weeks.
 Due to the tight time constraint, the game still contains various bugs like a quirky enemy ai, clipping errors and missing textures.
 
 My assignment in the project group was the implementation of the ballistics for grenades and projectiles, the implementation of the particle systems as well as the programming of a fast and precise collision detection.
@@ -147,16 +148,16 @@ My assignment in the project group was the implementation of the ballistics for 
 An Arkanoid inspired action game, made with the Unity 3D Engine.
 
 This was my biggest personal project in Unity 3D so far. Code and graphics were all created by myself. To create the graphics, I used the open source vector graphics software Inkscape.  
-I really wanted to make a self-containted, complete game with production quality - which I think I have succeeded in. I even took some time off from my regular job to learn Unity 3D and complete this project! Finally, I published the app to the Android app store.
+I really wanted to make a self-containted, complete game with production quality. I even took some time off from my regular job to learn Unity 3D and complete this project! Finally, I published the app to the Android App Store.
 
-The original Android version (not available anymore) contained some commercially licensed external content. To avoid copyright issues, I replaced these textures / music clips with placeholders in the downloadable Windows version above. This means, that some texture have - let's say varying quality (in other words: some things look really ugly, especially in the main menu...). Thank you for your understanding.
+The Android version (not available anymore) contained some commercially licensed elements. To avoid copyright issues, I replaced these textures / music clips with placeholders in the downloadable Windows version above. This means, that some texture have - let's say, varying quality. Thank you for your understanding.
 
 ### My contribution to the project
 
 Pretty much everything was made by myself:  
 💡 Create and code the game using **Unity 3D** and **C#**  
 💡 Create most of the graphics assets using graphics software like **Inkscape** and **Gimp**   
-💡 Remix free music and sound clips using the audio software **Audacity**
+💡 Edit free music and sound clips using the audio software **Audacity**
 
 ### Project details:
 
@@ -171,14 +172,14 @@ Pretty much everything was made by myself:
 🔗 [Github Repository (Example game made with the O2 Game Engine)](https://github.com/perezite/o2-blocks)  
 🔗 [Download Page (Windows and Android) (Example game made with O2 Game Engine)](https://github.com/perezite/o2-blocks/releases/)
 
-**O2** is a C++ cross-platform 2D game engine. It currently supports Android and Windows.
+*O2* is a C++ cross-platform 2D game engine. It currently supports Android and Windows.
 
-The engine is strongly influenced by **SFML**. SFML does not officially support mobile platforms, however. I dedided to roll my own engine and use **SDL (Simple Direct Media Layer)** as a basis for the platform dependent functionality (like input/ouptut and window creation). The rendering is done in **OpenGL** / **OpenGL ES**, without using abstractions from SDL.
-The game is fully integrated into Visua Studio, i.e. the game can be built and debugged from within Visual studio for both Windows and Android.
+The engine is strongly influenced by the SFML library. SFML does not officially support mobile platforms, so I dedided to roll my own engine and use SDL (Simple Direct Media Layer as a basis for the platform dependent functionality (like input/ouptut and window creation). The rendering is done in OpenGL / OpenGL ES, without using abstractions from SDL.
+The engine is fully integrated into Visual Studio, i.e. the game can be built and debugged from within Visual studio for both Windows and Android.
 
-After tinkering with the engine code for quite some time, I decided to create an actual self-contained game with it. So I created a game called **O2 Blocks** - see screenshots. It's something similiar to Tetris, but with over-the-top effects and explosions (which are not really visible in the screenshots). The game also features the supposedly most annoying sound effects ever...
+After tinkering with the engine code for quite some time, I decided to create an actual self-contained game with it. So I created a game called **O2 Blocks** - see screenshots. It's something similiar to Tetris, but with over-the-top effects and explosions. The game also features the supposedly most annoying sound effects ever...
 
-I strive to continuously improve the code add new functionality to the engine. At the time of writing, I am refactoring the audio code to use the audio library [**miniaudio**](https://github.com/mackron/miniaudio), instead of the dated SDL audio capabilities which are currently in use. I also plan to move the engine code, which currently lives only inside the game, to a dedicated repository and include it using [Git submodules](https://git-scm.com/book/de/v2/Git-Tools-Submodule).
+I strive to continuously improve the code and add new functionality to the engine. At the time of writing, I am refactoring the audio code to use the audio library [miniaudio](https://github.com/mackron/miniaudio), instead of the dated SDL audio capabilities which are currently in use. I also plan to move the engine code, which currently lives only inside the game, to a dedicated repository.
 
 The 2D engine currently supports the following features  
 - Cross-platform on Windows and Android
@@ -186,7 +187,7 @@ The 2D engine currently supports the following features
 - Batched 2D texture rendering using OpenGL
 - Input/Output handling (mouse, keyboard, mobile touch screen)
 - Logging
-- Animation system using [tweens (also called easings)](http://robertpenner.com/easing/)
+- Animation system using [tweens](http://robertpenner.com/easing/)
 - Camera system
 - Particle systems
 - Music and Sound playback
@@ -203,10 +204,10 @@ The 2D engine currently supports the following features
 
 ## Tech Support Game
 
-<img src="https://github.com/perezite/tech-support-game/blob/master/Documents/Screenshots/Screenshot1.png?raw=true" alt="Tech Support Screenshot 1" height="400px"/>
+<img src="https://github.com/perezite/tech-support-game/blob/master/Documents/Screenshots/Screenshot1.png?raw=true" alt="Tech Support Screenshot 1" style="max-height: 400px"/>
 
-<img src="https://globalgamejam.org/sites/default/files/styles/game_content__wide/public/games/screenshots/screen4_18.jpg?itok=q2TWkQoV&timestamp=1422215729" alt="Tech Support Screenshot 2" height="250px"/>
-<img src="https://globalgamejam.org/sites/default/files/styles/game_content__wide/public/games/screenshots/screen5_7.jpg?itok=7OxwCNdO&timestamp=1422215729" alt="Tech Support Screenshot 3" height="250px"/>
+<img src="https://globalgamejam.org/sites/default/files/styles/game_content__wide/public/games/screenshots/screen4_18.jpg?itok=q2TWkQoV&timestamp=1422215729" alt="Tech Support Screenshot 2" style="max-height: 250px"/>
+<img src="https://globalgamejam.org/sites/default/files/styles/game_content__wide/public/games/screenshots/screen5_7.jpg?itok=7OxwCNdO&timestamp=1422215729" alt="Tech Support Screenshot 3" style="max-height: 250px"/>
 
 🔗 [Github Repository](https://github.com/perezite/tech-support-game)  
 🔗 [Download Page (Windows)](https://github.com/perezite/tech-support-game/releases/)  
@@ -266,7 +267,7 @@ I created Clan Manager for friends who where getting into the gameserver hosting
 <img src="https://github.com/perezite/rigid-body/blob/main/docs/screenshots/RigidBodyScreenshot2.png?raw=true" alt="Rigid Body Screenshot" style="max-height: 400px"/>
 
 🔗 [Github Repository](https://github.com/perezite/rigid-body)  
-🔗 [Download Page (Windows)](hhttps://github.com/perezite/rigid-body/releases/tag/v1.0.0)  
+🔗 [Download Page (Windows)](https://github.com/perezite/rigid-body/releases)  
 
 This program is a 2D physics simulation, inspired by the [Rigid Body Dynamics Tutorial by Chris Hecker](https://www.chrishecker.com/Rigid_Body_Dynamics)
 
