@@ -2,7 +2,9 @@
 
 🤓 .NET Fullstack Engineer with professional developer experience since 2013  
 🎮 I also love to tinker with C++ and Game Engine Programming  
-🎓 I have a degree in Physics (BSc) as well as Computational Science (MSc) from the University of Zürich
+🎓 I have a degree in Physics (BSc) as well as Computational Science (MSc) from the University of Zürich  
+
+👋 Also have a look at my [Github Profile](https://github.com/perezite/)
 
 # Professional Projects
 
